@@ -6,3 +6,8 @@
 ~ npm i
 ~ npm run start
 ```
+
+### for testing
+```terminal
+~ npm run test
+```
