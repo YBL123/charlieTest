@@ -1,4 +1,4 @@
-const User = require('./charliePR')
+const User = require('./charlieHR')
 
 
 const John = new User ("John", "1974-11-03")

@@ -1,6 +1,6 @@
 const { expect } = require('@jest/globals')
 
-const User = require('./charliePR')
+const User = require('./charlieHR')
 
 
 describe('testing user', () => {
